@@ -1162,7 +1162,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/17 1:28 PM UTC
+			2021/12/18 1:28 PM UTC
 		</td>
 		<td>
 			0
@@ -1306,7 +1306,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2021/12/17 1:30 PM UTC
+			2021/12/18 1:30 PM UTC
 		</td>
 		<td>
 			1
@@ -1393,22 +1393,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419895748/small/year.png" height="20"> 0
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/433279852/year.md">
-				python
-			</a>
-		</td>
-		<td>
-			2021/12/18 12:41 AM UTC
-		</td>
-		<td>
-			3
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/433279852/small/year.png" height="20"> 5
 		</td>
 	</tr>
 	<tr>
@@ -1845,7 +1829,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/20 1:36 PM UTC</i></small>
+<small><i>Last updated on 2021/12/20 2:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
