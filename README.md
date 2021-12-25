@@ -85,6 +85,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624197/year.md">
+				Angular_Projects_Book_First_Edition
+			</a>
+		</td>
+		<td>
+			2021/12/22 12:00 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624197/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624291/year.md">
+				Angular_Projects_Book_Second_Edition
+			</a>
+		</td>
+		<td>
+			2021/12/22 12:00 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624291/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104240/year.md">
 				AtCoder
 			</a>
@@ -593,6 +625,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420312071/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440629109/year.md">
+				Flashcard_Game
+			</a>
+		</td>
+		<td>
+			2021/12/22 12:00 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440629109/small/year.png" height="20"> 4
 		</td>
 	</tr>
 	<tr>
@@ -1829,7 +1877,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/25 6:27 PM UTC</i></small>
+<small><i>Last updated on 2021/12/25 11:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
