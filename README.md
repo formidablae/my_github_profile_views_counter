@@ -693,6 +693,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/442954502/year.md">
+				Front-End_JavaScript_Frameworks_Angular
+			</a>
+		</td>
+		<td>
+			2021/12/27 6:16 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/442954502/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420312091/year.md">
 				FutureLearn
 			</a>
@@ -1893,7 +1909,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2021/12/30 12:45 AM UTC</i></small>
+<small><i>Last updated on 2021/12/30 6:29 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
