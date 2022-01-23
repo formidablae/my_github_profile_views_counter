@@ -133,6 +133,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/449490646/year.md">
+				AwesAnon
+			</a>
+		</td>
+		<td>
+			2022/1/20 12:00 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/449490646/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/428458515/year.md">
 				Awesome_Programming_Projects
 			</a>
@@ -645,6 +661,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/450975723/year.md">
+				flask-framework-cookbook-aggarwal-2nd-ed
+			</a>
+		</td>
+		<td>
+			2022/1/20 4:36 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450975723/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/385108435/year.md">
 				formidablae
 			</a>
@@ -1125,6 +1157,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/448011952/year.md">
+				learn-terraform-docker-container
+			</a>
+		</td>
+		<td>
+			2022/1/20 4:41 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/448011952/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104150/year.md">
 				LeetCode
 			</a>
@@ -1473,6 +1521,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419895748/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/450664319/year.md">
+				python-microservices-development-fraser-ziade-2nd-ed
+			</a>
+		</td>
+		<td>
+			2022/1/20 4:45 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450664319/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -1909,7 +1973,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/1/23 1:01 AM UTC</i></small>
+<small><i>Last updated on 2022/1/23 4:49 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
