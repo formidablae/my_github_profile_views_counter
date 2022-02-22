@@ -26,13 +26,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			135
+			137
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/421021519/small/year.png" height="20"> 276
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/421021519/small/year.png" height="20"> 278
 		</td>
 	</tr>
 	<tr>
@@ -42,7 +42,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			13
@@ -58,7 +58,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			44
@@ -74,7 +74,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			3
@@ -90,7 +90,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			13
@@ -106,7 +106,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			1
@@ -122,7 +122,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:56 AM UTC
 		</td>
 		<td>
 			5
@@ -138,7 +138,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			8
@@ -154,7 +154,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:53 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			4
@@ -170,13 +170,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:54 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			23
+			24
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349926197/small/year.png" height="20"> 48
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349926197/small/year.png" height="20"> 49
 		</td>
 	</tr>
 	<tr>
@@ -186,7 +186,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			21
@@ -202,7 +202,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:54 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			8
@@ -218,7 +218,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:54 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			4
@@ -234,7 +234,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:54 AM UTC
+			2022/2/20 12:57 AM UTC
 		</td>
 		<td>
 			1
@@ -250,13 +250,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			95
+			97
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311872/small/year.png" height="20"> 541
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311872/small/year.png" height="20"> 543
 		</td>
 	</tr>
 	<tr>
@@ -266,13 +266,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			65
+			66
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418930471/small/year.png" height="20"> 193
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418930471/small/year.png" height="20"> 194
 		</td>
 	</tr>
 	<tr>
@@ -282,7 +282,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:58 AM UTC
 		</td>
 		<td>
 			10
@@ -298,7 +298,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:55 AM UTC
+			2022/2/20 12:58 AM UTC
 		</td>
 		<td>
 			13
@@ -314,13 +314,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:55 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685559/small/year.png" height="20"> 7
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685559/small/year.png" height="20"> 10
 		</td>
 	</tr>
 	<tr>
@@ -330,7 +330,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:55 AM UTC
+			2022/2/20 12:58 AM UTC
 		</td>
 		<td>
 			19
@@ -346,13 +346,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			612
+			627
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/423047626/small/year.png" height="20"> 3027
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/423047626/small/year.png" height="20"> 3123
 		</td>
 	</tr>
 	<tr>
@@ -362,13 +362,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:55 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			5
+			7
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419894679/small/year.png" height="20"> 21
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419894679/small/year.png" height="20"> 26
 		</td>
 	</tr>
 	<tr>
@@ -378,13 +378,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			65
+			69
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539842/small/year.png" height="20"> 165
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539842/small/year.png" height="20"> 179
 		</td>
 	</tr>
 	<tr>
@@ -394,7 +394,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 12:59 AM UTC
 		</td>
 		<td>
 			19
@@ -410,7 +410,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 12:59 AM UTC
 		</td>
 		<td>
 			2
@@ -426,7 +426,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 12:59 AM UTC
 		</td>
 		<td>
 			0
@@ -442,7 +442,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 12:59 AM UTC
 		</td>
 		<td>
 			0
@@ -458,7 +458,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			2
@@ -474,7 +474,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			0
@@ -490,7 +490,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			0
@@ -506,7 +506,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:56 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			4
@@ -522,7 +522,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:57 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			2
@@ -538,7 +538,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			22
@@ -554,7 +554,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 1:00 AM UTC
 		</td>
 		<td>
 			4
@@ -570,13 +570,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			115
+			116
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420312037/small/year.png" height="20"> 198
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420312037/small/year.png" height="20"> 200
 		</td>
 	</tr>
 	<tr>
@@ -586,7 +586,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:57 AM UTC
+			2022/2/20 1:01 AM UTC
 		</td>
 		<td>
 			0
@@ -602,7 +602,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:57 AM UTC
+			2022/2/20 1:01 AM UTC
 		</td>
 		<td>
 			0
@@ -618,13 +618,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			68
+			69
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349926721/small/year.png" height="20"> 208
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349926721/small/year.png" height="20"> 209
 		</td>
 	</tr>
 	<tr>
@@ -634,7 +634,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:58 AM UTC
+			2022/2/20 1:01 AM UTC
 		</td>
 		<td>
 			57
@@ -650,7 +650,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:58 AM UTC
+			2022/2/20 1:01 AM UTC
 		</td>
 		<td>
 			9
@@ -666,13 +666,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:58 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			18
+			19
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450975723/small/year.png" height="20"> 196
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450975723/small/year.png" height="20"> 207
 		</td>
 	</tr>
 	<tr>
@@ -682,13 +682,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			685
+			695
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/385108435/small/year.png" height="20"> 2441
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/385108435/small/year.png" height="20"> 2471
 		</td>
 	</tr>
 	<tr>
@@ -698,7 +698,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:58 AM UTC
+			2022/2/20 1:02 AM UTC
 		</td>
 		<td>
 			0
@@ -714,13 +714,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			102
+			104
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418918047/small/year.png" height="20"> 760
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418918047/small/year.png" height="20"> 764
 		</td>
 	</tr>
 	<tr>
@@ -730,7 +730,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 1:02 AM UTC
 		</td>
 		<td>
 			7
@@ -746,7 +746,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:02 AM UTC
 		</td>
 		<td>
 			3
@@ -762,7 +762,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:02 AM UTC
 		</td>
 		<td>
 			4
@@ -778,7 +778,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			2
@@ -794,7 +794,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			0
@@ -810,7 +810,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			0
@@ -826,7 +826,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			0
@@ -842,7 +842,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:59 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			1
@@ -858,7 +858,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			3
@@ -874,7 +874,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 1:03 AM UTC
 		</td>
 		<td>
 			4
@@ -890,13 +890,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			27
+			28
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104191/small/year.png" height="20"> 68
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104191/small/year.png" height="20"> 70
 		</td>
 	</tr>
 	<tr>
@@ -906,7 +906,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 1:04 AM UTC
 		</td>
 		<td>
 			12
@@ -922,13 +922,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			54
+			57
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419901682/small/year.png" height="20"> 93
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419901682/small/year.png" height="20"> 96
 		</td>
 	</tr>
 	<tr>
@@ -938,7 +938,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 1:04 AM UTC
 		</td>
 		<td>
 			16
@@ -954,13 +954,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			35
+			36
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418937177/small/year.png" height="20"> 205
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418937177/small/year.png" height="20"> 213
 		</td>
 	</tr>
 	<tr>
@@ -970,7 +970,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:00 AM UTC
+			2022/2/20 1:04 AM UTC
 		</td>
 		<td>
 			0
@@ -986,7 +986,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 6:24 PM UTC
 		</td>
 		<td>
 			79
@@ -1002,7 +1002,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:01 AM UTC
+			2022/2/20 6:24 PM UTC
 		</td>
 		<td>
 			9
@@ -1018,13 +1018,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			15
+			16
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419892184/small/year.png" height="20"> 51
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419892184/small/year.png" height="20"> 52
 		</td>
 	</tr>
 	<tr>
@@ -1034,7 +1034,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:01 AM UTC
+			2022/2/20 6:24 PM UTC
 		</td>
 		<td>
 			7
@@ -1050,7 +1050,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 1:01 AM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			1
@@ -1066,7 +1066,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:41 PM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			4
@@ -1082,7 +1082,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:41 PM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			1
@@ -1098,7 +1098,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:42 PM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			1
@@ -1114,7 +1114,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			47
@@ -1130,7 +1130,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:42 PM UTC
+			2022/2/20 6:25 PM UTC
 		</td>
 		<td>
 			0
@@ -1146,7 +1146,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			17
@@ -1162,7 +1162,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:42 PM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			5
@@ -1178,7 +1178,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:43 PM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			16
@@ -1194,7 +1194,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:43 PM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			6
@@ -1210,7 +1210,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:43 PM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			1
@@ -1226,7 +1226,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:43 PM UTC
+			2022/2/20 6:26 PM UTC
 		</td>
 		<td>
 			2
@@ -1242,13 +1242,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			117
+			119
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/406596307/small/year.png" height="20"> 305
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/406596307/small/year.png" height="20"> 307
 		</td>
 	</tr>
 	<tr>
@@ -1258,7 +1258,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:44 PM UTC
+			2022/2/20 6:27 PM UTC
 		</td>
 		<td>
 			0
@@ -1274,7 +1274,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:44 PM UTC
+			2022/2/20 6:27 PM UTC
 		</td>
 		<td>
 			8
@@ -1290,7 +1290,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:44 PM UTC
+			2022/2/20 6:27 PM UTC
 		</td>
 		<td>
 			8
@@ -1306,13 +1306,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			192
+			196
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/436361669/small/year.png" height="20"> 478
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/436361669/small/year.png" height="20"> 489
 		</td>
 	</tr>
 	<tr>
@@ -1322,7 +1322,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:45 PM UTC
+			2022/2/20 6:27 PM UTC
 		</td>
 		<td>
 			6
@@ -1338,7 +1338,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:45 PM UTC
+			2022/2/20 6:27 PM UTC
 		</td>
 		<td>
 			0
@@ -1354,7 +1354,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:45 PM UTC
+			2022/2/20 6:28 PM UTC
 		</td>
 		<td>
 			5
@@ -1370,7 +1370,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:45 PM UTC
+			2022/2/20 6:28 PM UTC
 		</td>
 		<td>
 			13
@@ -1386,13 +1386,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:45 PM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			106
+			108
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/442067761/small/year.png" height="20"> 167
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/442067761/small/year.png" height="20"> 169
 		</td>
 	</tr>
 	<tr>
@@ -1402,7 +1402,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:46 PM UTC
+			2022/2/20 6:28 PM UTC
 		</td>
 		<td>
 			1
@@ -1418,7 +1418,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:46 PM UTC
+			2022/2/20 6:28 PM UTC
 		</td>
 		<td>
 			0
@@ -1434,13 +1434,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:46 PM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			4
+			5
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419893986/small/year.png" height="20"> 22
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419893986/small/year.png" height="20"> 23
 		</td>
 	</tr>
 	<tr>
@@ -1450,7 +1450,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			37
@@ -1466,7 +1466,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:46 PM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			5
@@ -1482,7 +1482,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:47 PM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			1
@@ -1498,7 +1498,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:47 PM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			18
@@ -1514,7 +1514,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:47 PM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			2
@@ -1530,7 +1530,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			22
@@ -1546,7 +1546,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:47 PM UTC
+			2022/2/20 6:29 PM UTC
 		</td>
 		<td>
 			1
@@ -1562,13 +1562,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			14
+			16
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419103772/small/year.png" height="20"> 61
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419103772/small/year.png" height="20"> 64
 		</td>
 	</tr>
 	<tr>
@@ -1578,13 +1578,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			132
+			134
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/455358213/small/year.png" height="20"> 1080
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/455358213/small/year.png" height="20"> 1086
 		</td>
 	</tr>
 	<tr>
@@ -1594,7 +1594,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:48 PM UTC
+			2022/2/20 6:30 PM UTC
 		</td>
 		<td>
 			0
@@ -1610,7 +1610,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:48 PM UTC
+			2022/2/20 6:30 PM UTC
 		</td>
 		<td>
 			6
@@ -1626,13 +1626,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 12:00 AM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			45
+			48
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104220/small/year.png" height="20"> 113
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104220/small/year.png" height="20"> 117
 		</td>
 	</tr>
 	<tr>
@@ -1642,7 +1642,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:49 PM UTC
+			2022/2/20 6:30 PM UTC
 		</td>
 		<td>
 			4
@@ -1658,7 +1658,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:49 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			0
@@ -1674,7 +1674,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:49 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			0
@@ -1690,7 +1690,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:49 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			2
@@ -1706,7 +1706,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:49 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			18
@@ -1722,13 +1722,13 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:50 PM UTC
+			2022/2/20 12:00 AM UTC
 		</td>
 		<td>
-			3
+			4
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311711/small/year.png" height="20"> 5
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311711/small/year.png" height="20"> 6
 		</td>
 	</tr>
 	<tr>
@@ -1738,7 +1738,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:50 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			0
@@ -1754,7 +1754,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:50 PM UTC
+			2022/2/20 6:31 PM UTC
 		</td>
 		<td>
 			4
@@ -1770,7 +1770,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/2/19 9:50 PM UTC
+			2022/2/20 6:32 PM UTC
 		</td>
 		<td>
 			22
@@ -1779,9 +1779,217 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/415427612/small/year.png" height="20"> 88
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/415428568/year.md">
+				The_Missing_Semester
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:32 PM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/415428568/small/year.png" height="20"> 31
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412414994/year.md">
+				todolist_android_app
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:32 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412414994/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419539886/year.md">
+				TopCoder
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:32 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539886/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/349928652/year.md">
+				Trendr_App
+			</a>
+		</td>
+		<td>
+			2022/2/20 12:00 AM UTC
+		</td>
+		<td>
+			85
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349928652/small/year.png" height="20"> 222
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311693/year.md">
+				TryHackMe
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:32 PM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311693/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311677/year.md">
+				Udacity
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311677/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311587/year.md">
+				Udemy
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311587/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412379111/year.md">
+				unibg_magistrale_esame_informatica_III_a
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412379111/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412410879/year.md">
+				unibg_triennale_esame_informatica_II_a
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412410879/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311657/year.md">
+				VulnHub
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311657/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685503/year.md">
+				write-docker-actions
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685503/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685515/year.md">
+				write-github-script
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:33 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685515/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685490/year.md">
+				writing-javascript-actions
+			</a>
+		</td>
+		<td>
+			2022/2/20 6:34 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685490/small/year.png" height="20"> 1
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/2/21 6:36 PM UTC</i></small>
+<small><i>Last updated on 2022/2/22 1:10 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
