@@ -101,6 +101,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624291/year.md">
+				Angular_Projects_Book_Second_Edition
+			</a>
+		</td>
+		<td>
+			2022/3/3 12:57 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624291/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104240/year.md">
 				AtCoder
 			</a>
@@ -353,22 +369,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419894679/small/year.png" height="20"> 28
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419539842/year.md">
-				Codility
-			</a>
-		</td>
-		<td>
-			2022/3/3 12:00 AM UTC
-		</td>
-		<td>
-			108
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539842/small/year.png" height="20"> 273
 		</td>
 	</tr>
 	<tr>
@@ -1109,6 +1109,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/425372617/year.md">
+				iOS_App
+			</a>
+		</td>
+		<td>
+			2022/3/3 1:07 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/425372617/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311813/year.md">
+				Kaggle
+			</a>
+		</td>
+		<td>
+			2022/3/3 1:07 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311813/small/year.png" height="20"> 126
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/448011952/year.md">
 				learn-terraform-docker-container
 			</a>
@@ -1425,22 +1457,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311743/small/year.png" height="20"> 10
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/428460707/year.md">
-				project-based-learning
-			</a>
-		</td>
-		<td>
-			2022/3/3 1:10 AM UTC
-		</td>
-		<td>
-			1
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/428460707/small/year.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
@@ -1941,7 +1957,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/5 1:14 AM UTC</i></small>
+<small><i>Last updated on 2022/3/5 6:39 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
