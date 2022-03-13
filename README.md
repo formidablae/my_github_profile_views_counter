@@ -101,6 +101,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624291/year.md">
+				Angular_Projects_Book_Second_Edition
+			</a>
+		</td>
+		<td>
+			2022/3/11 1:00 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624291/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104240/year.md">
 				AtCoder
 			</a>
@@ -677,6 +693,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/349935596/year.md">
+				formidablae.github.io
+			</a>
+		</td>
+		<td>
+			2022/3/11 1:06 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349935596/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/418918047/year.md">
 				freeCodeCamp
 			</a>
@@ -1061,18 +1093,18 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/443880307/year.md">
-				Inventory_App
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685471/year.md">
+				intro-react
 			</a>
 		</td>
 		<td>
-			2022/3/11 1:10 AM UTC
+			2022/3/11 1:09 AM UTC
 		</td>
 		<td>
-			65
+			1
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/443880307/small/year.png" height="20"> 161
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685471/small/year.png" height="20"> 2
 		</td>
 	</tr>
 	<tr>
@@ -1941,7 +1973,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/3/13 1:14 AM UTC</i></small>
+<small><i>Last updated on 2022/3/13 6:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
