@@ -293,6 +293,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538258225/year.md">
+				Codecademy_Choosing_a_Programming_Language
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:53 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/538258225/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/537961192/year.md">
+				Codecademy_Foundations_of_Cloud_Computing
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:53 PM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/537961192/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483011911/year.md">
 				Codecademy_Learn_Build_Tools
 			</a>
@@ -305,6 +337,38 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/483011911/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/537951968/year.md">
+				Codecademy_Learn_Go
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:53 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/537951968/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538259577/year.md">
+				Codecademy_Learn_Handlebars
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:53 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/538259577/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -357,6 +421,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538259106/year.md">
+				Codecademy_Learn_Node_SQLite
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:54 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/538259106/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483012129/year.md">
 				Codecademy_Learn_PHP
 			</a>
@@ -389,6 +469,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538259825/year.md">
+				Codecademy_Learn_Responsive_Design
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:55 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/538259825/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483012186/year.md">
 				Codecademy_Learn_TypeScript
 			</a>
@@ -401,6 +497,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/483012186/small/year.png" height="20"> 20
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538126669/year.md">
+				Codecademy_Learn_What_to_Learn
+			</a>
+		</td>
+		<td>
+			2022/9/15 10:55 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/538126669/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -2165,7 +2277,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/18 6:48 PM UTC</i></small>
+<small><i>Last updated on 2022/9/18 11:15 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
