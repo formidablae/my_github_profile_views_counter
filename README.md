@@ -325,6 +325,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/540559595/year.md">
+				Codecademy_Introduction_to_DevOps
+			</a>
+		</td>
+		<td>
+			2022/9/21 1:01 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/540559595/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483011911/year.md">
 				Codecademy_Learn_Build_Tools
 			</a>
@@ -2277,7 +2293,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/9/24 2:13 AM UTC</i></small>
+<small><i>Last updated on 2022/9/24 1:24 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
