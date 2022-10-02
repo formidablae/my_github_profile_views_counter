@@ -757,6 +757,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/544218786/year.md">
+				continuous-delivery-azure
+			</a>
+		</td>
+		<td>
+			2022/9/29 3:02 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/544218786/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685530/year.md">
 				continuous-integration-circle
 			</a>
@@ -2309,7 +2325,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/10/2 2:09 AM UTC</i></small>
+<small><i>Last updated on 2022/10/2 3:15 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
