@@ -26,18 +26,146 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/11/9 12:00 AM UTC
+			2022/11/10 12:00 AM UTC
 		</td>
 		<td>
-			798
+			801
 		</td>
 		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/421021519/small/year.png" height="20"> 1938
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/421021519/small/year.png" height="20"> 1941
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419539785/year.md">
+				AdventOfCode
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:21 AM UTC
+		</td>
+		<td>
+			57
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539785/small/year.png" height="20"> 133
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/437885389/year.md">
+				AngularBlog
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:21 AM UTC
+		</td>
+		<td>
+			204
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/437885389/small/year.png" height="20"> 395
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/418266750/year.md">
+				Angular_in_Action
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:21 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418266750/small/year.png" height="20"> 33
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624197/year.md">
+				Angular_Projects_Book_First_Edition
+			</a>
+		</td>
+		<td>
+			2022/11/10 12:00 AM UTC
+		</td>
+		<td>
+			1282
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624197/small/year.png" height="20"> 1779
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/440624291/year.md">
+				Angular_Projects_Book_Second_Edition
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:22 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/440624291/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104240/year.md">
+				AtCoder
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:22 AM UTC
+		</td>
+		<td>
+			27
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104240/small/year.png" height="20"> 92
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/449490646/year.md">
+				AwesAnon
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:22 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/449490646/small/year.png" height="20"> 17
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/428458515/year.md">
+				Awesome_Programming_Projects
+			</a>
+		</td>
+		<td>
+			2022/11/10 1:22 AM UTC
+		</td>
+		<td>
+			7
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/428458515/small/year.png" height="20"> 11
 		</td>
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/11 6:21 PM UTC</i></small>
+<small><i>Last updated on 2022/11/12 1:20 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
