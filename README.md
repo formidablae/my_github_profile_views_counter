@@ -1763,9 +1763,569 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419893986/small/year.png" height="20"> 436
 		</td>
 	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/439694681/year.md">
+				pig_game
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:33 AM UTC
+		</td>
+		<td>
+			279
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/439694681/small/year.png" height="20"> 725
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311743/year.md">
+				Pluralsight
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:33 AM UTC
+		</td>
+		<td>
+			21
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311743/small/year.png" height="20"> 31
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/428460707/year.md">
+				project-based-learning
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:33 AM UTC
+		</td>
+		<td>
+			12
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/428460707/small/year.png" height="20"> 14
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419539867/year.md">
+				Project_Euler
+			</a>
+		</td>
+		<td>
+			2022/11/14 12:00 AM UTC
+		</td>
+		<td>
+			140
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539867/small/year.png" height="20"> 613
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419895748/year.md">
+				pwnable.tw
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:34 AM UTC
+		</td>
+		<td>
+			17
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419895748/small/year.png" height="20"> 28
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/450664319/year.md">
+				python-microservices-development-fraser-ziade-2nd-ed
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:34 AM UTC
+		</td>
+		<td>
+			35
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450664319/small/year.png" height="20"> 170
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685574/year.md">
+				release-based-workflow
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:34 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685574/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419103772/year.md">
+				Reply
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:34 AM UTC
+		</td>
+		<td>
+			158
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419103772/small/year.png" height="20"> 776
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/455358213/year.md">
+				restaurant-reservation-api
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:34 AM UTC
+		</td>
+		<td>
+			353
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/455358213/small/year.png" height="20"> 2618
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685382/year.md">
+				reviewing-a-pull-request
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685382/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419895341/year.md">
+				RingZer0CTF
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			72
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419895341/small/year.png" height="20"> 168
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419104220/year.md">
+				root-me
+			</a>
+		</td>
+		<td>
+			2022/11/14 12:00 AM UTC
+		</td>
+		<td>
+			587
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419104220/small/year.png" height="20"> 1666
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/358722064/year.md">
+				Rubrica_CLI
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			10
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/358722064/small/year.png" height="20"> 71
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/512486107/year.md">
+				search-github-repos
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/512486107/small/year.png" height="20"> 10
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685418/year.md">
+				security-on-github
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685418/small/year.png" height="20"> 1
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685414/year.md">
+				security-strategy-essentials
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:35 AM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685414/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/349927860/year.md">
+				Semaforo_State_Machine
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349927860/small/year.png" height="20"> 11
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311728/year.md">
+				SoloLearn
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			104
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311728/small/year.png" height="20"> 249
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311711/year.md">
+				Sphere_Online_Judge_SPOJ
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			46
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311711/small/year.png" height="20"> 69
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685455/year.md">
+				starting-with-typescript-exercise
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685455/small/year.png" height="20"> 2
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/418677325/year.md">
+				Stonks
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			24
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418677325/small/year.png" height="20"> 76
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/415427612/year.md">
+				The_Complete_JavaScript_Course
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:36 AM UTC
+		</td>
+		<td>
+			80
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/415427612/small/year.png" height="20"> 367
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/415428568/year.md">
+				The_Missing_Semester
+			</a>
+		</td>
+		<td>
+			2022/11/14 12:00 AM UTC
+		</td>
+		<td>
+			16
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/415428568/small/year.png" height="20"> 53
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412414994/year.md">
+				todolist_android_app
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:37 AM UTC
+		</td>
+		<td>
+			13
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412414994/small/year.png" height="20"> 42
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419539886/year.md">
+				TopCoder
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:37 AM UTC
+		</td>
+		<td>
+			6
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/419539886/small/year.png" height="20"> 19
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/349928652/year.md">
+				Trendr_App
+			</a>
+		</td>
+		<td>
+			2022/11/14 12:00 AM UTC
+		</td>
+		<td>
+			408
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349928652/small/year.png" height="20"> 1168
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311693/year.md">
+				TryHackMe
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:37 AM UTC
+		</td>
+		<td>
+			97
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311693/small/year.png" height="20"> 140
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311677/year.md">
+				Udacity
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:37 AM UTC
+		</td>
+		<td>
+			11
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311677/small/year.png" height="20"> 23
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311587/year.md">
+				Udemy
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:37 AM UTC
+		</td>
+		<td>
+			30
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311587/small/year.png" height="20"> 38
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412379111/year.md">
+				unibg_magistrale_esame_informatica_III_a
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412379111/small/year.png" height="20"> 9
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412410879/year.md">
+				unibg_triennale_esame_informatica_II_a
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			5
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412410879/small/year.png" height="20"> 7
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311657/year.md">
+				VulnHub
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			53
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311657/small/year.png" height="20"> 64
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685503/year.md">
+				write-docker-actions
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685503/small/year.png" height="20"> 3
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685515/year.md">
+				write-github-script
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685515/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685490/year.md">
+				writing-javascript-actions
+			</a>
+		</td>
+		<td>
+			2022/11/14 1:38 AM UTC
+		</td>
+		<td>
+			2
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685490/small/year.png" height="20"> 4
+		</td>
+	</tr>
 </table>
 
-<small><i>Last updated on 2022/11/16 1:32 AM UTC</i></small>
+<small><i>Last updated on 2022/11/16 6:38 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
