@@ -1861,22 +1861,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/450664319/year.md">
-				python-microservices-development-fraser-ziade-2nd-ed
-			</a>
-		</td>
-		<td>
-			2022/12/1 1:33 AM UTC
-		</td>
-		<td>
-			35
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/450664319/small/year.png" height="20"> 170
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685574/year.md">
 				release-based-workflow
 			</a>
@@ -2341,7 +2325,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/12/3 1:25 AM UTC</i></small>
+<small><i>Last updated on 2022/12/3 6:36 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
