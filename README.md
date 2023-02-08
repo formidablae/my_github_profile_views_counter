@@ -181,6 +181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591795285/year.md">
+				beginning-java-ee-7-goncalves
+			</a>
+		</td>
+		<td>
+			2023/2/5 10:53 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591795285/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/419892394/year.md">
 				BendingSpoons
 			</a>
@@ -401,6 +417,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/483011975/small/year.png" height="20"> 41
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/598504738/year.md">
+				codecademy-learn-java-introduction
+			</a>
+		</td>
+		<td>
+			2023/2/5 10:55 PM UTC
+		</td>
+		<td>
+			3
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/598504738/small/year.png" height="20"> 3
 		</td>
 	</tr>
 	<tr>
@@ -1365,6 +1397,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591794143/year.md">
+				hands-on-microservices-with-spring-boot-and-spring-cloud-larsson
+			</a>
+		</td>
+		<td>
+			2023/2/5 11:04 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591794143/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/422933876/year.md">
 				hello-github-actions
 			</a>
@@ -1457,6 +1505,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/425372617/small/year.png" height="20"> 6
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591792710/year.md">
+				java-for-web-applications-williams
+			</a>
+		</td>
+		<td>
+			2023/2/5 11:05 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591792710/small/year.png" height="20"> 1
 		</td>
 	</tr>
 	<tr>
@@ -1557,6 +1621,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591793347/year.md">
+				mastering-microservices-with-java-sharma
+			</a>
+		</td>
+		<td>
+			2023/2/5 11:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591793347/small/year.png" height="20"> 0
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/406596307/year.md">
 				Masters_Thesis
 			</a>
@@ -1585,6 +1665,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 		</td>
 		<td>
 			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/429685404/small/year.png" height="20"> 8
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591794630/year.md">
+				microservices-patterns-with-examples-in-java-richardson
+			</a>
+		</td>
+		<td>
+			2023/2/5 11:07 PM UTC
+		</td>
+		<td>
+			0
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591794630/small/year.png" height="20"> 0
 		</td>
 	</tr>
 	<tr>
@@ -2085,6 +2181,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591792080/year.md">
+				spring-boot-up-and-running-heckler
+			</a>
+		</td>
+		<td>
+			2023/2/5 11:12 PM UTC
+		</td>
+		<td>
+			1
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591792080/small/year.png" height="20"> 4
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685455/year.md">
 				starting-with-typescript-exercise
 			</a>
@@ -2341,7 +2453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/2/8 6:44 PM UTC</i></small>
+<small><i>Last updated on 2023/2/8 11:14 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
