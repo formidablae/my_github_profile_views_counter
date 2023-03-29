@@ -949,38 +949,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420312014/year.md">
-				edX
-			</a>
-		</td>
-		<td>
-			2023/3/27 1:09 AM UTC
-		</td>
-		<td>
-			12
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420312014/small/year.png" height="20"> 16
-		</td>
-	</tr>
-	<tr>
-		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/349926721/year.md">
-				EV_Route_Planner
-			</a>
-		</td>
-		<td>
-			2023/3/27 12:00 AM UTC
-		</td>
-		<td>
-			778
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/349926721/small/year.png" height="20"> 2601
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420312071/year.md">
 				Exercism
 			</a>
@@ -2453,7 +2421,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/3/29 1:29 AM UTC</i></small>
+<small><i>Last updated on 2023/3/29 6:42 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
