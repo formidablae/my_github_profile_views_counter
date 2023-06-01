@@ -150,21 +150,10 @@
 			<code>93</code>
 		</td>
 	</tr>
-	<tr>
-		<td>
-			<code>2022/5/1</code>
-		</td>
-		<td>
-			<code>36</code>
-		</td>
-		<td>
-			<code>299</code>
-		</td>
-	</tr>
 </table>
 
 </details>
-<small><i>Last updated on 2023/5/31 6:31 PM UTC</i></small>
+<small><i>Last updated on 2023/6/1 1:42 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### SVG Badge
