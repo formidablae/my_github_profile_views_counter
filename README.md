@@ -869,22 +869,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311912/year.md">
-				CTFs
-			</a>
-		</td>
-		<td>
-			2023/8/30 12:59 AM UTC
-		</td>
-		<td>
-			8
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311912/small/year.png" height="20"> 9
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311943/year.md">
 				DataCamp
 			</a>
@@ -2453,7 +2437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2023/9/1 1:15 AM UTC</i></small>
+<small><i>Last updated on 2023/9/1 6:35 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
