@@ -1509,6 +1509,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/591792710/year.md">
+				java-for-web-applications-williams
+			</a>
+		</td>
+		<td>
+			2024/2/22 1:02 AM UTC
+		</td>
+		<td>
+			4
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/591792710/small/year.png" height="20"> 5
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311813/year.md">
 				Kaggle
 			</a>
@@ -2437,7 +2453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/2/24 1:21 AM UTC</i></small>
+<small><i>Last updated on 2024/2/24 6:32 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
