@@ -261,22 +261,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311872/year.md">
-				Codecademy
-			</a>
-		</td>
-		<td>
-			2024/5/28 12:59 AM UTC
-		</td>
-		<td>
-			687
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/420311872/small/year.png" height="20"> 1717
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483011790/year.md">
 				Codecademy_Career_Path_Back-End_Engineer
 			</a>
@@ -2453,7 +2437,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2024/5/30 1:14 AM UTC</i></small>
+<small><i>Last updated on 2024/5/30 6:34 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
