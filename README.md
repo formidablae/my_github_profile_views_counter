@@ -549,22 +549,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/483012186/year.md">
-				Codecademy_Learn_TypeScript
-			</a>
-		</td>
-		<td>
-			2025/3/31 1:24 AM UTC
-		</td>
-		<td>
-			52
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/483012186/small/year.png" height="20"> 573
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/538126669/year.md">
 				Codecademy_Learn_What_to_Learn
 			</a>
@@ -2373,22 +2357,6 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
-			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/412410879/year.md">
-				unibg_triennale_esame_informatica_II_a
-			</a>
-		</td>
-		<td>
-			2025/3/31 1:39 AM UTC
-		</td>
-		<td>
-			15
-		</td>
-		<td>
-			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/412410879/small/year.png" height="20"> 44
-		</td>
-	</tr>
-	<tr>
-		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/420311657/year.md">
 				VulnHub
 			</a>
@@ -2453,7 +2421,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/2 1:35 AM UTC</i></small>
+<small><i>Last updated on 2025/4/2 6:40 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
