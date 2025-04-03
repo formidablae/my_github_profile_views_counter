@@ -629,6 +629,22 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 	<tr>
 		<td>
+			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/418926064/year.md">
+				CodeForces
+			</a>
+		</td>
+		<td>
+			2025/4/1 1:30 AM UTC
+		</td>
+		<td>
+			384
+		</td>
+		<td>
+			<img alt="Response time graph" src="https://github.com/formidablae/my_github_profile_views_counter/raw/master/graph/418926064/small/year.png" height="20"> 1832
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<a href="https://github.com/formidablae/my_github_profile_views_counter/tree/master/readme/429685559/year.md">
 				codeql-uboot
 			</a>
@@ -2437,7 +2453,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2025/4/3 1:35 AM UTC</i></small>
+<small><i>Last updated on 2025/4/3 6:43 PM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
