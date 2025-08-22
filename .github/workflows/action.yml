@@ -1,12 +1,13 @@
 name: GitHub Profile Views Counter CI
 on:
   schedule:
-    - cron: '0 */96 * * *'
+    - cron: '0 0 */4 * *'
   workflow_dispatch:
 jobs:
   release:
     name: GitHub Profile Views Counter Action
     runs-on: ubuntu-20.04
+    timeout-minutes: 30
     steps:
       - uses: actions/checkout@v2.3.4
         with:
